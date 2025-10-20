@@ -1,0 +1,3 @@
+// Column configuration helpers for CRUD tables
+export interface ColumnConfig<T = any> {
+  key: keyo...

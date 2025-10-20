@@ -1,0 +1,5 @@
+Table projects {
+  id integer [pk, increment]
+  name varchar [not null]
+  description text
+  deadlin...
